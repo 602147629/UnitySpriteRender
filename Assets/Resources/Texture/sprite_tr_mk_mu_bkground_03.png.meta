@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 0f71e27167635334e8e46a989756d584
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_tr_mk_mu_bkground_1
+    21300002: sprite_tr_mk_mu_bkground_2
+    21300004: sprite_tr_mk_mu_bkground_3
+    21300006: sprite_tr_mk_mu_bkground_4
+    21300008: sprite_tr_mk_mu_bkground_5
+    21300010: sprite_tr_mk_mu_bkground_6
+    21300012: sprite_tr_mk_mu_bkground_7
+    21300014: sprite_tr_mk_mu_bkground_8
+    21300016: sprite_tr_mk_mu_bkground_9
+    21300018: sprite_tr_mk_mu_bkground_0
+    21300020: sprite_tr_03_0
+    21300022: sprite_tr_03_0
+    21300024: sprite_tr_03_2
+    21300026: sprite_tr_mk_Area_China
+    21300028: sprite_tr_mk_Area_Venice
+    21300030: sprite_tr_mk_Area_Siberia
+    21300032: sprite_tr_mk_Area_Chile
+    21300034: sprite_tr_mk_Area_Tokyo
+    21300036: sprite_tr_03_3
+    21300038: sprite_tr_03_4
+    21300040: sprite_tr_03_5
+    21300042: sprite_tr_03_6
+    21300044: sprite_tr_03_7
+    21300046: sprite_tr_03_8
+    21300048: sprite_tr_03_9
+    21300050: sprite_mk_03_0
+    21300052: sprite_mk_03_1
+    21300054: sprite_mk_03_2
+    21300056: sprite_mk_03_3
+    21300058: sprite_mk_03_4
+    21300060: sprite_mk_03_5
+    21300062: sprite_mk_03_6
+    21300064: sprite_mk_03_7
+    21300066: sprite_tr_mk_mu_bkground_03_33
+    21300068: sprite_mk_03_9
+    21300070: sprite_mu_03_9
+    21300072: sprite_mu_03_8
+    21300074: sprite_mu_03_7
+    21300076: sprite_mu_03_6
+    21300078: sprite_mu_03_5
+    21300080: sprite_mu_03_4
+    21300082: sprite_mu_03_3
+    21300084: sprite_mu_03_2
+    21300086: sprite_mu_03_1
+    21300088: sprite_mu_03_0
+    21300090: sprite_mk_03_8
+    21300092: sprite_tr_03_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_tr_mk_mu_bkground_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 373
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 373
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 373
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 331
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 331
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 331
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 331
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_mu_bkground_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 292
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_Area_China
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 223
+        width: 232
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_Area_Venice
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 184
+        width: 232
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_Area_Siberia
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 146
+        width: 232
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_Area_Chile
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 232
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_mk_Area_Tokyo
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 232
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_tr_03_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 247
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mu_03_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 211
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_mk_03_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 228
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
